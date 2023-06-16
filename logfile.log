@@ -1,0 +1,33 @@
+
+
+
+2023-05-31 14:56:49,584 :INFO :test_editProfile :Rahul
+2023-05-31 14:56:49,584 :INFO :test_editProfile :rahulshettyacademy.com
+2023-05-31 14:59:08,117 :INFO :test_editProfile :Rahul
+2023-05-31 14:59:08,117 :INFO :test_editProfile :rahulshettyacademy.com
+2023-05-31 14:59:08,121 :DEBUG :test_logging :A debug statement is executed
+2023-05-31 14:59:08,121 :INFO :test_logging :Information statement
+2023-05-31 14:59:08,121 :WARNING :test_logging :Something is in warning mode
+2023-05-31 14:59:08,121 :ERROR :test_logging :A Major error has happend
+2023-05-31 14:59:08,121 :CRITICAL :test_logging :Critical issue
+2023-05-31 15:00:55,905 :INFO :test_editProfile :Rahul
+2023-05-31 15:00:55,905 :INFO :test_editProfile :rahulshettyacademy.com
+2023-05-31 15:00:55,910 :DEBUG :test_logging :A debug statement is executed
+2023-05-31 15:00:55,911 :INFO :test_logging :Information statement
+2023-05-31 15:00:55,911 :WARNING :test_logging :Something is in warning mode
+2023-05-31 15:00:55,911 :ERROR :test_logging :A Major error has happend
+2023-05-31 15:00:55,911 :CRITICAL :test_logging :Critical issue
+2023-05-31 15:04:43,266 :INFO :test_editProfile :Rahul
+2023-05-31 15:04:43,266 :INFO :test_editProfile :rahulshettyacademy.com
+2023-05-31 15:04:43,270 :DEBUG :test_logging :A debug statement is executed
+2023-05-31 15:04:43,270 :INFO :test_logging :Information statement
+2023-05-31 15:04:43,270 :WARNING :test_logging :Something is in warning mode
+2023-05-31 15:04:43,271 :ERROR :test_logging :A Major error has happend
+2023-05-31 15:04:43,271 :CRITICAL :test_logging :Critical issue
+2023-05-31 16:34:52,885 :INFO :test_editProfile :Rahul
+2023-05-31 16:34:52,885 :INFO :test_editProfile :rahulshettyacademy.com
+2023-05-31 16:34:52,891 :DEBUG :test_logging :A debug statement is executed
+2023-05-31 16:34:52,891 :INFO :test_logging :Information statement
+2023-05-31 16:34:52,891 :WARNING :test_logging :Something is in warning mode
+2023-05-31 16:34:52,891 :ERROR :test_logging :A Major error has happend
+2023-05-31 16:34:52,891 :CRITICAL :test_logging :Critical issue
